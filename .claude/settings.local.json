@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"D:\\\\AI_Courses\\\\Claude_Code_in_Action\" -Recurse -Force)",
+      "Bash(Select-Object FullName)",
+      "Bash(Head -100)",
+      "Bash(awk '{print $9}')",
+      "Bash(Test-Path *)"
+    ]
+  }
+}
