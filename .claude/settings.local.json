@@ -5,7 +5,9 @@
       "Bash(Select-Object FullName)",
       "Bash(Head -100)",
       "Bash(awk '{print $9}')",
-      "Bash(Test-Path *)"
+      "Bash(Test-Path *)",
+      "mcp__playwright",
+      "Bash(npm run *)"
     ]
   }
 }
